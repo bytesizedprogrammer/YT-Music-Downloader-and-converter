@@ -1,6 +1,7 @@
 # YouTube to MP3 Downloader
 
 ## Description
+1/14/25: Made the update adding the script for fetching URLs.  User can manually just copy and paste the URLs in and it works.
 
 This project uses yt-dlp and ffmpeg to process a list of YouTube URLs, downloading the videos and converting them into MP3 files. Future updates may include an automated web scraping feature to fetch URLs from a YouTube playlist provided by the user, eliminating the need to manually input URLs.
 
